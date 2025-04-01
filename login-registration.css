@@ -1,0 +1,33 @@
+.login-section {
+    display: flex;
+    justify-content: center;
+    align-items:first baseline;
+    min-height: 100%;
+    width: 100%;
+}
+
+.login-column {
+    margin: 30px;
+    padding: 40px;
+    width: 400px;
+}
+
+.register-column {
+    margin: 30px;
+    padding: 40px;
+    width: 600px;
+}
+
+.first-name {
+    background-color: white;
+}
+
+.last-name {
+    margin-left: 50px;
+}
+
+.names {
+    display: flex;
+    justify-content: baseline;
+    align-items:baseline;    
+}
